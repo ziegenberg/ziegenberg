@@ -1,8 +1,14 @@
 # Hi, I'm Daniel 👋
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziegenberg&show_icons=true&theme=dark&hide_rank=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+I work at [TU Wien](https://tuwien.at) as a DevOps Engineer for the Campus Software Development Department.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziegenberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Open Source
+
+Every now and then I contribute to Open Source Projects.
+
+- 🔭 Some of those are [ansible-community/schemas](https://github.com/ansible-community/schemas), [ansi2html](pycontribs/ansi2html), [moodle](https://github.com/moodle/moodle/) and [opencast](https://github.com/opencast/opencast/).
+
 
 <!--
 **ziegenberg/ziegenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
