@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Daniel 👋
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziegenberg&show_icons=true&theme=dark&hide_rank=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ziegenberg/ziegenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
